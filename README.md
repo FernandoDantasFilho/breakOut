@@ -1,3 +1,6 @@
-# breakOut
-Game produced on Post-Graduated in Development of Digital Games at UEA - University of the State of Amazonas.
-  Releitura do Jogo Breakout.
+## breakOut
+
+Game produced in the Construct 2 tool in the postgraduate course in the development of electronic games at the University of the State of Amazonas - UEA.
+
+--
+MIT Licensed.
